@@ -14,6 +14,8 @@ function logShout(string) {
   }
   function sayHiToGrandma(string) {
     if (string === 'HELLO') {
+    return 'YES INDEED!'
+    } else if (string === 'hello') {
       
     }
   }
