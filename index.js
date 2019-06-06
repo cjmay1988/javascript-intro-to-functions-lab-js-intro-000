@@ -17,6 +17,7 @@ function logShout(string) {
     return 'YES INDEED!'
     } else if (string === 'hello') {
       console.log(string)
+      return "I can't hear you"
     }
   }
   
