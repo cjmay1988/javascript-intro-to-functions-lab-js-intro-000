@@ -8,5 +8,9 @@ function logShout(string) {
   const logShout = 'HELLO';
   console.log(logShout);
   }
+  function logWhisper(string) {
+    const logWhisper = 'spy';
+    console.log('spy');
+  }
   
 
