@@ -13,7 +13,9 @@ function logShout(string) {
     console.log('HELLO'.toLowerCase());
   }
   function sayHiToGrandma(string) {
-    
+    if (string === 'HELLO') {
+      
+    }
   }
   
 
