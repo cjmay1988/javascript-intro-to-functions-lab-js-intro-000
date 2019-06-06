@@ -9,7 +9,7 @@ function logShout(string) {
   console.log(logShout);
   }
   function logWhisper(string) {
-    const logWhisper = 'spy';
+    const logWhisper = 'HELLO';
     console.log(logWhisper);
   }
   
