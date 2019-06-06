@@ -16,7 +16,7 @@ function logShout(string) {
     if (string === 'HELLO') {
     return 'YES INDEED!'
     } else if (string === 'hello') {
-      
+      console.log(string)
     }
   }
   
