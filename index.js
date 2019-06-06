@@ -18,6 +18,8 @@ function logShout(string) {
     } else if (string === 'hello') {
       console.log(string)
       return "I can't hear you!"
+    } else {
+      return "I love you, too."
     }
   }
   
